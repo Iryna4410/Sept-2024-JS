@@ -1,8 +1,3 @@
-
-// #jCHFnEbdmFd
-// - Створити масив з 10 об'єктами які описують сутніть "користувач". Поля: name, username,password.
-// Вивести в консоль пароль кожного користувача
-
 let users=[
     {name:"user1",username:"username1",password:111},
     {name:"user2",username:"username2",password:121},
