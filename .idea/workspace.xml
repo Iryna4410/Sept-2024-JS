@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6992f99-e927-4f3f-aa3f-13654b2e4b05" name="Changes" comment="дз2">
-      <change afterPath="$PROJECT_DIR$/hw2/hw2_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/hw2_2/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/hw2_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/hw2_3/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/hw2_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/hw2_4/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,21 +63,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="homeworks-js" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="homeworks-js" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,6 +89,7 @@
       <workItem from="1730986712070" duration="113000" />
       <workItem from="1730988035598" duration="7000" />
       <workItem from="1730988071774" duration="42000" />
+      <workItem from="1731005710395" duration="147000" />
     </task>
     <task id="LOCAL-00001" summary="дз2">
       <option name="closed" value="true" />
