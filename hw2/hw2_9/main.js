@@ -1,5 +1,5 @@
 
-switch ('3'){
+switch ("1"){
     case "1":
         console.log("monday");
         break;
