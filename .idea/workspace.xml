@@ -61,21 +61,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="homeworks-js" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="homeworks-js" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -104,6 +89,7 @@
       <workItem from="1730988071774" duration="42000" />
       <workItem from="1731005710395" duration="147000" />
       <workItem from="1731346954796" duration="27000" />
+      <workItem from="1731426970619" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="дз2">
       <option name="closed" value="true" />
