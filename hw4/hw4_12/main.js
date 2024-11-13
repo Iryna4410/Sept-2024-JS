@@ -6,3 +6,4 @@ function swap(arr,index1,index2){
   return arr;
 }
 console.log(swap([25,68,45,12],0,3));
+
