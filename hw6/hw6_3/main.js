@@ -1,6 +1,7 @@
 let s1='HELLO WORLD';
 let s2=  'LOREM IPSUM';
 let s3= 'JAVASCRIPT IS COOL';
-console.log(s1.toLowerCase());
-console.log(s2.toLowerCase());
-console.log(s3.toLowerCase());
+let strings=[s1,s2,s3]
+for (const string of strings) {
+    console.log(string.toLowerCase())
+}
