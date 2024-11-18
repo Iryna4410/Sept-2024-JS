@@ -5,7 +5,7 @@ function User(id,name,surname,email, phone) {
     this.email =email;
     this.phone =phone;
 }
-let arr=[
+let users=[
     new User(1,'vasya','lorem','bjb','09835264657'),
     new User(2,'vasyaa','lorem','bjb','09835264657'),
     new User(3,'anna','lorem','bjb','09835264657'),
@@ -16,4 +16,8 @@ let arr=[
     new User(8,'vasya','lorem','bjb','09835264657'),
     new User(9,'vasya','lorem','bjb','09835264657'),
     new User(10,'vasya','lorem','bjb','09835264657')]
-console.log(arr);
+
+const filterFunction=(user)=> user.id%2===0;
+
+console.log(users.filter(filterFunction));
+
