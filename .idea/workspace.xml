@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6992f99-e927-4f3f-aa3f-13654b2e4b05" name="Changes" comment="дз2">
-      <change afterPath="$PROJECT_DIR$/hw2/hw2_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/hw2_2/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/hw2_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/hw2_3/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/hw2_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/hw2_4/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +32,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Iryna4410/Sept-2024-JS.git&quot;,
-    &quot;accountId&quot;: &quot;5c6a8ba4-f5d9-4bef-bf66-f79afc65cfcc&quot;
+    &quot;accountId&quot;: &quot;b6df7a50-d393-4e03-9c12-3661d9c2a072&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -59,6 +53,7 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -70,12 +65,6 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="homeworks-js" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="homeworks-js" />
       <option name="filePath" />
@@ -87,8 +76,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
       </set>
     </attachedChunks>
   </component>
@@ -110,6 +99,8 @@
       <workItem from="1730986712070" duration="113000" />
       <workItem from="1730988035598" duration="7000" />
       <workItem from="1730988071774" duration="42000" />
+      <workItem from="1732488334866" duration="13000" />
+      <workItem from="1732488373516" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="дз2">
       <option name="closed" value="true" />
