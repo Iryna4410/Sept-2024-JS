@@ -4,20 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6992f99-e927-4f3f-aa3f-13654b2e4b05" name="Changes" comment="hw7">
-      <change afterPath="$PROJECT_DIR$/hw8/hw8_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/hw8_1/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/hw8_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8/hw8_2/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw9/hw9_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw9/hw9_1/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw9/hw9_1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw9/hw9_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw9/hw9_2/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw9/hw9_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw9/hw9_3/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw9/hw9_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw9/hw9_4/main.js" afterDir="false" />
+    <list default="true" id="a6992f99-e927-4f3f-aa3f-13654b2e4b05" name="Changes" comment="hw9">
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_1/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_10/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_3/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_6/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_7/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_8/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw10_9/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +36,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -63,28 +70,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/homeworks-js/hw9",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/homeworks-js/hw10&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\homeworks-js\hw10" />
       <recent name="C:\Users\user\Desktop\homeworks-js\hw9" />
       <recent name="C:\Users\user\Desktop\homeworks-js" />
       <recent name="C:\Users\user\Desktop\homeworks-js\hw8" />
@@ -128,7 +136,13 @@
       <workItem from="1732488334866" duration="13000" />
       <workItem from="1732488373516" duration="4000" />
       <workItem from="1732488737747" duration="537000" />
-      <workItem from="1732522297263" duration="8321000" />
+      <workItem from="1732522297263" duration="9149000" />
+      <workItem from="1732556692818" duration="1391000" />
+      <workItem from="1732648440741" duration="2696000" />
+      <workItem from="1732651168278" duration="1451000" />
+      <workItem from="1732733674701" duration="1265000" />
+      <workItem from="1732872891351" duration="948000" />
+      <workItem from="1732883416596" duration="1206000" />
     </task>
     <task id="LOCAL-00001" summary="дз2">
       <option name="closed" value="true" />
@@ -154,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732489073337</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hw9">
+      <option name="closed" value="true" />
+      <created>1732533106932</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732533106932</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +185,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="дз2" />
     <MESSAGE value="hw7" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw7" />
+    <MESSAGE value="hw9" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw9" />
   </component>
 </project>
